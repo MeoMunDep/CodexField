@@ -50,6 +50,9 @@ query_id.../user...
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
 
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
+
 ```txt - wallet address
 abc...xyz
 abc...xyz
